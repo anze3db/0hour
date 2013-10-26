@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -avz --delete dist/ server:www/0hour
